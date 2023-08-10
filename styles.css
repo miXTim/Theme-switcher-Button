@@ -201,9 +201,7 @@ hr {
   font-weight: 600;
   border: 1px solid var(--surface4);
 }
-.button-wrap span {
-  display: grid;
-}
+.button-wrap span { display: grid;}
 button svg {
   height: 1.8em;
   width: 1.8em;
@@ -226,9 +224,7 @@ main {
   clear: both;
 }
 @media (min-width: 1020px) {
-	main {
-		width: min(50em,100%);
-	}
+	main { width: min(50em,100%);}
 }
 .head-title {
   margin-top: 110px;
