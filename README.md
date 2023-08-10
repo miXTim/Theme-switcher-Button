@@ -12,7 +12,7 @@ The "**makeButton()**" function is also called to dynamically construct the them
 
 Therefore, the "**ul.subnav**" element only exists when "**button.action**" is clicked and the theme menu is unfolded.
 
-The icon and color scheme are Dim by default. It changes according to the selected color scheme, applied by a class in the <html> tag. All icons are loaded as SVG symbols with the &lt;use&gt; element from inside the HTML.
+The icon and color scheme are Dim by default. It changes according to the selected color scheme, applied by a class in the &lt;html&gt; tag. All icons are loaded as SVG symbols with the &lt;use&gt; element from inside the HTML.
 
 No libraries! **NO** dependencies at all.
 
