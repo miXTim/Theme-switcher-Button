@@ -16,5 +16,6 @@ The icon and color scheme are Dim by default. It changes according to the select
 
 No libraries! **NO** dependencies at all.
 
+Demo(https://mixtim.github.io/theme-switcher-button/)
 ---
 Thanks for watching! 👏
